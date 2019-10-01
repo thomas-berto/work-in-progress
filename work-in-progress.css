@@ -1,0 +1,30 @@
+body
+{ background-image:url("https://cdn.pixabay.com/photo/2018/02/01/23/04/construction-site-3124294__340.jpg");
+background-repeat:repeat;
+
+}
+
+.titre
+{
+text-shadow:2px 2px 5px red;
+text-align:center;
+border: 5px outset orange;
+background-color:gray;}
+
+}
+section
+{text-align:center;
+}
+aside
+{float:left;}
+
+header
+{background-color:gray;}
+footer
+{border: 5px outset orange;
+background-color:gray;
+text-align:center;
+text-shadow:2px 2px 5px red;
+font-family:arial;
+
+}
